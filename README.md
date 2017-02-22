@@ -5,13 +5,4 @@
 1. Has four text fields and one button.
 2. Two of the text fields need to be for accepting a first name and a last name.
 3. The other two text fields need to accept in something that the user likes.
-4. When you press the button, an alert should show displaying.
-
-_______________________________________________
-|           Hello, firstName lastName!        |
-|             You said that you like:         |
-|                     item 1                  |
-|                     item 2                  |
------------------------------------------------
-|                     Ok                      |
------------------------------------------------
+4. When you press the button, an alert should show displaying "Hello, [firstName] [lastName]" for the title of the alert. For the alert message body, it should display "You said you like:" followed by two lines listing the two things the user typed in the last two fields.
